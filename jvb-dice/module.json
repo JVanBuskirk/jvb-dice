@@ -1,0 +1,30 @@
+{
+  "id": "jvb-dice",
+  "title": "JVB Dice",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "A set of custom dice for my Pathfinder group.",
+  "download": "",
+  "manifest": "",
+  "authors": [
+    {
+      "name": "JSVB"
+    }
+  ],
+  "scripts": [
+    "scripts/jvb-dice.json"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "manifest": "",
+        "compatibility": {}
+      }
+    ]
+  }
+}
