@@ -7,8 +7,8 @@
     "verified": "11"
   },
   "description": "A set of custom dice for my Pathfinder group.",
-  "download": "",
-  "manifest": "",
+  "download": "https://github.com/JVanBuskirk/jvb-dice/blob/main/jvb-dice.zip",
+  "manifest": "https://github.com/JVanBuskirk/jvb-dice/blob/main/module.json",
   "authors": [
     {
       "name": "JSVB"
